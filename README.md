@@ -4,6 +4,10 @@ Driver less toy car which is controllable via internet.
 
 https://youtu.be/uEH6olzndUM
 
+![PnP Starter Pack Front Page](./car__designarchitecture.png)
+
+![PnP Starter Pack Front Page](./screen.jpeg)
+
 Phase - 1.
 
 Develop a navigation controller webpage to direct the toy car.
